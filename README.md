@@ -35,7 +35,7 @@ python main.py
 
 El proyecto está dividido en varios archivos :
 
-- **main.py** - Acá arranca todo, es cortito
+- **main.py** - Ejecutar el Archivo principal
 - **constantes.py** - Todos los valores que uso (colores, tamaños, etc)
 - **planta.py** - La clase Planta con toda su lógica
 - **plaga.py** - La clase de los enemigos
